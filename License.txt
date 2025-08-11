@@ -1,0 +1,22 @@
+# Sapphire Master License
+
+Copyright (c) Sapphire Team. All rights reserved.
+
+This license covers all current and future projects, games, applications, designs, codebases, assets, and intellectual property developed, owned, or released under the Sapphire name, including but not limited to:
+- Snake Webgame
+- Letter Raider
+- Cosmic Runner
+- LegalEase
+- Any future Sapphire projects or assets
+
+## Permissions
+- Internal use by Sapphire team members for development, testing, and promotional purposes.
+- Distribution of compiled or published versions by Sapphire for official releases.
+
+## Restrictions
+- No external use, reproduction, modification, or distribution of code, assets, or designs without written permission from Sapphire.
+- No commercial exploitation by non-Sapphire members.
+- Attribution must always remain intact in all official and derivative works.
+
+## Ownership
+All works are owned collectively by the Sapphire team, with individual creators retaining moral rights to their contributions.
