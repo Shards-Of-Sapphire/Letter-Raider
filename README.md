@@ -1,13 +1,12 @@
 # Letter Raider
 
-**Letter Raider** is a fast-paced word game where players must form as many words as possible from scattered letters before the timer runs out.  
+**Letter Raider** is a fast-paced word game where players must form words before the timer runs out.  
 It’s designed to challenge vocabulary, quick thinking, and typing speed.
 
 ---
 
 ## 📌 Features
 - Timed gameplay for an extra challenge.
-- Randomized letter sets for replayability.
 - Score tracking to compete against yourself.
 - Clean and intuitive interface.
 
@@ -35,9 +34,8 @@ See [LICENSE.md](LICENSE.md) for more information.
 
 ## ▶️ How to Play
 1. Launch the game.
-2. Form as many valid words as possible before the timer runs out.
-3. Submit words to gain points.
-4. Try to beat your high score!
+2. Guess the word before the timer runs out.
+3. Try to beat your high score!
 
 ---
 
