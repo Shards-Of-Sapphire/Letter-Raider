@@ -45,18 +45,16 @@ See [LICENSE.md](LICENSE.md) for more information.
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/letter-raider.git
-
+   
 2. Install dependencies:
-  ```bash
+```bash
   pip install -r requirements.txt
-```
+  
 3. Run the game:
-  ```bash
+```bash
   python main.py
-```
 
 ✨ Credits
 Concept & Assets: Aayat Nizam
 
 Development: Sapphire Team
-
